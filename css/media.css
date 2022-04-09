@@ -1,0 +1,232 @@
+
+/* ==== ==== 1. Extra-Small Devices ==== ==== */
+/* ==== ==== (X-sm) Screen ==== ==== */
+
+@media(max-width: 575.98px){
+    
+/* === === X-sm Common Start === ==== */
+/* === === X-sm Slider Start === ==== */
+
+#sld_back {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+
+.top h2 {
+    font-size: 21px;
+    line-height: 30px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.back_photo {
+    height: 500px;
+}
+
+.banner_one {
+    height: 500px;
+}
+
+.parti {
+    height: 500px;
+}
+
+.snowflake {
+    height: 500px;
+}
+
+.ban_text_one h3 {
+    font-size: 45px;
+    line-height: 45px;
+}
+
+.ban_text_one h4 {
+    font-size: 32px;
+    line-height: 35px;
+    padding: 22px 0px;
+}
+
+.ban_text_one p {
+    line-height: 20px;
+}
+
+.slick-dots button {
+    width: 10px;
+    height: 2px;
+}
+
+.slick-dots {
+    bottom: 440px;
+}
+
+.arrow_left {
+    font-size: 30px;
+    top: 88%;
+    left: 30px;
+}
+
+.arrow_right {
+    font-size: 30px;
+    top: 88%;
+    right: 30px;
+}
+
+.ban_photo {
+    top: 30%;
+    left: 50%;
+    opacity: .6;
+}
+
+/* ==== X-sm END ==== */
+    
+}
+
+/* ==== ==== 2. Small Devices ==== ==== */
+/* ==== ==== (sm) Screen ==== ==== */
+
+@media(min-width: 576px) and (max-width: 767.98px){
+    
+/* === === SM Common Start === ==== */
+/* === === SM Slider Start === ==== */
+
+#sld_back {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+
+.top h2 {
+    font-size: 21px;
+    line-height: 30px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    padding: 20px 85px;
+}
+
+.back_photo {
+    height: 500px;
+}
+
+.banner_one {
+    height: 500px;
+}
+
+.parti {
+    height: 500px;
+}
+
+.snowflake {
+    height: 500px;
+}
+
+.ban_text_one h3 {
+    font-size: 45px;
+    line-height: 45px;
+}
+
+.ban_text_one h4 {
+    font-size: 32px;
+    line-height: 35px;
+    padding: 22px 0px;
+}
+
+.ban_text_one p {
+    line-height: 20px;
+}
+
+.slick-dots button {
+    width: 10px;
+    height: 2px;
+}
+
+.slick-dots {
+    bottom: 440px;
+}
+
+.arrow_left {
+    font-size: 30px;
+    top: 88%;
+    left: 30px;
+}
+
+.arrow_right {
+    font-size: 30px;
+    top: 88%;
+    right: 30px;
+}
+
+.ban_photo {
+    top: 30%;
+    left: 50%;
+    opacity: .6;
+}
+    
+/* ==== SM END ==== */
+    
+}
+
+/* ==== ==== 3. Medium Devices ==== ==== */
+/* ==== ==== (md) Screen ==== ==== */
+
+@media(min-width: 768px) and (max-width: 991.98px){
+
+/* === === MD Common Start === ==== *
+/* === === MD Slider Start === ==== */
+
+#sld_back {
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+
+.top h2 {
+    line-height: 35px;
+    padding: 20px 95px;
+}
+
+.ban_photo {
+    top: 30%;
+    left: 50%;
+    opacity: .6;
+}
+
+.ban_text_one h3 {
+    line-height: 55px;
+}
+
+.ban_text_one h4 {
+    padding: 30px 0px;
+}
+    
+/* ==== MD END ==== */
+    
+}
+
+/* ==== ==== 4. Large Devices ==== ==== */
+/* ==== ==== (lg) Screen ==== ==== */
+
+@media(min-width: 992px) and (max-width: 1199.98px){
+    
+/* === === LG Common Start === ==== */
+/* === === LG Slider Start === ==== */
+
+#sld_back {
+    padding-top: 0;
+    padding-bottom: 70px;
+}
+
+.top h2 {
+    line-height: 40px;
+    margin-bottom: 35px;
+}
+
+.ban_photo {
+    top: 92%;
+    left: 8%;
+}
+
+.ban_photo img {
+    width: 65%;
+}
+    
+/* ==== LG END ==== */
+    
+}
